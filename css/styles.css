@@ -7,11 +7,13 @@
     --open-sans: 'Open Sans', sans-serif;
     --poppins: 'Poppins', sans-serif;
 }
-
+html,body{
+    width:auto!important;
+    overflow-x: hidden!important;
+} 
 body {
     font-size: 18px;
     font-family: var(--open-sans);
-    overflow-x: hidden;
 }
 
 h1,
