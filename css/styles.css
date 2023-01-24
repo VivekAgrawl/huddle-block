@@ -302,6 +302,9 @@ a {
         padding: 0 10px;
         margin-top: 40px;
     }
+    .foot-box-pad{
+        padding-top: 40px;
+    }
 
     .cpyrht {
         margin: 35px 0 50px;
