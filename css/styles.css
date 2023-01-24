@@ -305,7 +305,9 @@ a {
     .foot-box-pad{
         padding-top: 40px;
     }
-
+    .foot-pad-top{
+        padding-top: 20px;
+    }
     .cpyrht {
         margin: 35px 0 50px;
         font-size: 0.7rem;
